@@ -13,6 +13,6 @@ MAKE SURE YOU HAVE AN INTERNET ACCESS!!!
 
 3.install and run the apk on your victime phone.....make sure your victim phone had a internet access
 
-4.and get done
+4.and get a METERPRETER SHELL!!!!!HAHAHAHAHA
 
 If you had a problem....plis see the original trick at https://null-byte.wonderhowto.com/forum/to-hack-android-device-with-termux-android-part-1-over-internet-ultimate-guide-0187005/
